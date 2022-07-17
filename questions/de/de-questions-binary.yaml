@@ -1,0 +1,30 @@
+- question-true: Hat der Hauptgürtelasteroid (14100) Weierstrass hat einen Durchmesser von weniger als 50km?
+  question-false: Hat der Hauptgürtelasteroid (14100) Weierstrass hat einen Durchmesser von mehr als 50km?
+  source: https://de.wikipedia.org/wiki/(14100)_Weierstrass
+- question-true: Ist Portugiesisch die Amtssprache in der Stadt Andrelandia im brasilianischen Bundesstaat Minas Gerais?
+  question-false: Ist Deutsch die Amtssprache in der Stadt Andrelandia im brasilianischen Bundesstaat Minas Gerais?
+  source: https://de.wikipedia.org/wiki/Andrel%C3%A2ndia
+- question-true: Die Zeitschrift für Kanada-Studien reflektiert die kanadistische Forschung im deutschsprachigen Raum. Erscheint sie jährlich?
+  question-false: Die Zeitschrift für Kanada-Studien reflektiert die kanadistische Forschung im deutschsprachigen Raum. Erscheint sie monatlich?
+  source: https://de.wikipedia.org/wiki/Zeitschrift_f%C3%BCr_Kanada-Studien
+- question-true: Ist das Verwaltungsgericht Neustadt an der Weinstraße ein Verwaltungsgericht in Rheinland-Pfalz?
+  question-false: Ist das Verwaltungsgericht Neustadt an der Weinstraße ein Verwaltungsgericht in Baden-Württemberg?
+  source: https://de.wikipedia.org/wiki/Verwaltungsgericht_Neustadt_an_der_Weinstra%C3%9Fe
+- question-true: Ist der Dschumādā l-ūlā ein Monat des muslimischen Kalenderjahrs?
+  question-false: Ist der Dschumādā l-ūlā ein indischer Heiliger?
+  source: https://de.wikipedia.org/wiki/Dschum%C4%81d%C4%81_l-%C5%ABl%C4%81
+- question-true: Wurde der schwedische Sänger und Songwriter John Martin Lindström in Stockholm geboren?
+  question-false: Wurde der schwedische Sänger und Songwriter John Martin Lindström in Malmö geboren?
+  source: https://de.wikipedia.org/wiki/John_Martin_(S%C3%A4nger)
+- question-true: Wurde das achte Studioalbum von Neil Young 1977 veröffentlicht?
+  question-false: Wurde das achte Studioalbum von Neil Young 1987 veröffentlicht?
+  source: https://de.wikipedia.org/wiki/American_Stars_%E2%80%99n_Bars
+- question-true: Wurden bei der Britischen Unterhauswahl 1868 mehr als eine Millionen Stimmen abgegeben?
+  question-false: Wurden bei der Britischen Unterhauswahl 1868 mehr als vier Millionen Stimmen abgegeben?
+  source: https://de.wikipedia.org/wiki/Britische_Unterhauswahl_1868
+- question-true: Hatte die deutsche Pädagogin und Politikerin Adelheid Torhorst sechs Geschwister?
+  question-false: War die deutsche Pädagogin und Politikerin Adelheid Torhorst ein Einzelkind?
+  source: https://de.wikipedia.org/wiki/Adelheid_Torhorst
+- question-true: Hatte das PKW-Modell DeSoto Deluxe einen Motor mit 3,8 Liter Hubraum?
+  question-false: Hatte das PKW-Modell DeSoto Deluxe einen Motor mit 1,8 Liter Hubraum?
+  source: https://de.wikipedia.org/wiki/DeSoto_Deluxe
