@@ -28,3 +28,34 @@
 - question-true: Hatte das PKW-Modell DeSoto Deluxe einen Motor mit 3,8 Liter Hubraum?
   question-false: Hatte das PKW-Modell DeSoto Deluxe einen Motor mit 1,8 Liter Hubraum?
   source: https://de.wikipedia.org/wiki/DeSoto_Deluxe
+- question-true: War Anuvong der letzte König des laotischen Königreichs Vientiane?
+  question-false: War Anuvong war die erste Königin des laotischen Königreichs Vientiane?
+  source: https://de.wikipedia.org/wiki/Anuvong
+- question-true: Ermöglicht die Schliffhülse eine flüssigkeitsdichte Verbindung zweier Glasgeräte mit Normschliff?
+  question-false: Ermöglicht die Schliffhülse eine flüssigkeitsdichte Verbindung zweier Gummischläuche mit Normstärke?
+  source: https://de.wikipedia.org/wiki/Schliffh%C3%BClse
+- question-true: Ist Takashima eine japanische Insel der Seto-Inlandsee?
+  question-false: Ist Takashima eine japanische Stadt am Ufer des Seto-Inlandsees?
+  source: https://de.wikipedia.org/wiki/Takashima_(Tokushima)
+- question-true: Starb der deutsch Bildhauer Michael Hönel 1653 in Judenburg?
+  question-false: Starb der deutsch Bildhauer Michael Hönel 1953 in Judenburg?
+  source: https://de.wikipedia.org/wiki/Michael_H%C3%B6nel
+- question-true: Gehörte die französische Ortschaft Vignes im Department Yonne in der Region Bourgogne-Franche-Comté früher zum Kanton Chablis?
+  question-false: Gehörte die französische Ortschaft Vignes im Department Yonne in der Region Bourgogne-Franche-Comté früher zum Kanton Glarus?
+  source: https://de.wikipedia.org/wiki/Vignes_(Yonne)
+- question-true: Wurden in der Sozialistischen Volksrepublik Albanien insgesamt acht Fünfjahrespläne aufgestellt?
+  question-false: Wurden in der Sozialistischen Volksrepublik Albanien insgesamt zwölf Fünfjahrespläne aufgestellt?
+  source: https://de.wikipedia.org/wiki/F%C3%BCnfjahrespl%C3%A4ne_der_Sozialistischen_Volksrepublik_Albanien
+- question-true: Existierte die schweizerische Eisenbahngesellschaft Ouest Suisse von 1852 bis 1871?
+  question-false: Existierte die schweizerische Eisenbahngesellschaft Ouest Suisse von 1952 bis 1971?
+  source: https://de.wikipedia.org/wiki/Compagnie_de_l%E2%80%99Ouest_Suisse
+- question-true: War Jessie Willcox Smith eine US-amerikanische Illustratorin für Kinder- und Jugendliteratur?
+  question-false: War Jessie Willcox Smith ein US-amerikanischer Serienmörder?
+  source: https://de.wikipedia.org/wiki/Jessie_Willcox_Smith
+- question-true: Ist die Zitationsanalyse ein Gebiet der Bibliometrie, das sich mit dem Studium der Beziehungen zwischen zitierten und zitierenden Arbeiten beschäftigt?
+  question-false: Ist die Zitationsanalyse ein Verfahren zur der chemischen Analyse von Grundwasser?
+  source: https://de.wikipedia.org/wiki/Zitationsanalyse
+- question-true: Ist Eunectes griechisch und bedeutet „guter Schwimmer“?
+  question-false: Ist Eunectes griechisch und bedeutet „guter Honig“?
+  source: https://de.wikipedia.org/wiki/Beni-Anakonda
+
