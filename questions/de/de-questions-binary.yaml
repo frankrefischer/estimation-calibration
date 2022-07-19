@@ -58,4 +58,37 @@
 - question-true: Ist Eunectes griechisch und bedeutet „guter Schwimmer“?
   question-false: Ist Eunectes griechisch und bedeutet „guter Honig“?
   source: https://de.wikipedia.org/wiki/Beni-Anakonda
+- question-true: "Die Frau ohne Nerven" ist ein deutscher Stummfilm aus dem Jahre 1929. Hatte die Filmspur eine Länge von 2427 Metern?
+  question-false: "Die Frau ohne Nerven" ist ein deutscher Stummfilm aus dem Jahre 1929. Hatte die Filmspur eine Länge von 7247 Metern?
+  source: https://de.wikipedia.org/wiki/Die_Frau_ohne_Nerven
+- question-true: War der bekannte deutsche Homöopath Heinrich Stauffer Mitglied des Deutschen Reichstags?
+  question-false: War der bekannte deutsche Homöopath Heinrich Stauffer Mitglied des Deutschen Bundestags?
+  source: https://de.wikipedia.org/wiki/Heinrich_Stauffer
+- question-true: War Ruth Brunswick eine amerikanische Psychoanalytikerin?
+  question-false: War Ruth Brunswick eine amerikanische Bowlingmeisterin?
+  source: https://de.wikipedia.org/wiki/Ruth_Brunswick
+- question-true: Ist der deutsche Politiker Kay Nerstheimer 2020 in die NPD eingetreten, nachdem er im gleichen Jahr aus der AfD ausgeschlossen wurde?
+  question-false: Ist der deutsche Politiker Kay Nerstheimer 2020 in die AfD eingetreten, nachdem er im gleichen Jahr aus der NPD ausgetreten war?
+  source: https://de.wikipedia.org/wiki/Kay_Nerstheimer
+- question-true: Ist Valmet VK 62 das Standardgewehr der finnischen Streitkräfte?
+  question-false: Ist Valmet VK 62 der beliebteste Motorroller aus belgischer Produktion?
+  source: https://de.wikipedia.org/wiki/Valmet_RK_62
+- question-true: Starb der kanadische Jazzmusiker Brian Barley im Alter von 28 Jahren an einem epileptischen Anfall?
+  question-false: Starb der kanadische Jazzmusiker Brian Barley im Alter von 88 Jahren an einem epileptischen Anfall?
+  source: https://de.wikipedia.org/wiki/Brian_Barley
+- question-true: Hat die Ortsgemeinde Zettingen im Landkreis Cochem-Zell in Rheinlandpfalz die Postleitzahl 56761?
+  question-false: Hat die Ortsgemeinde Zettingen im Landkreis Cochem-Zell in Rheinlandpfalz die Postleitzahl 15667?
+  source: https://de.wikipedia.org/wiki/Zettingen
+- question-true: Ist "Der Butt" ein Roman des Schriftstellers Günter Grass?
+  question-false: Ist "Der Wels" ein Roman des Schriftstellers Günter Grass?
+  source: https://de.wikipedia.org/wiki/Der_Butt
+- question-true: Ist das Flöz Johannisstein im Piesberg bei Osnabrück ein 80 Zentimeter mächtiges Antrazitkohlenflöz?
+  question-false: Ist das Flöz Johannisstein im Piesberg bei Osnabrück ein 80 Meter mächtiges Antrazitkohlenflöz?
+  source: https://de.wikipedia.org/wiki/Fl%C3%B6z_Johannisstein
+- question-true: Ist der Hühnermarkt ein Platz in der Altstadt von Frankfurt am Main?
+  question-false: Ist der Viktualienmarkt ein Platz in der Altstadt von Frankfurt am Main?
+  source: https://de.wikipedia.org/wiki/H%C3%BChnermarkt
+- question-true: 
+  question-false: 
+  source: 
 
