@@ -1,3 +1,33 @@
+- question-true: Nennt man Lebewesen, die trockene Lebensräume bevorzugen xerophil?
+  question-false: Nennt man Lebewesen, die feuchte Lebensräume bevorzugen xerophil?
+  source: https://de.wikipedia.org/wiki/Xerophilie
+- question-true: Besteht etwa ein Viertel der Gesamtfläche Sloweniens aus Vogelschutzgebieten?
+  question-false: Besteht etwa drei Viertel der Gesamtfläche Sloweniens aus Vogelschutzgebieten?
+  source: https://de.wikipedia.org/wiki/Liste_der_EU-Vogelschutzgebiete_in_Slowenien
+- question-true: Ist "Cathode-ray tube amusement device" das früheste bekannte interaktive elektronische Spielgerät mit tatsächlicher Bildschirmanzeige gilt?
+  question-false: Ist "Cathode-ray tube amusement device" der ursprüngliche Name der ersten Fernsehgeräte?
+  source: https://de.wikipedia.org/wiki/Cathode-ray_tube_amusement_device
+- question-true: Ist die "Verzweigung Gellert" eine Autobahnverzweigung der A2 und A3 in Basel?
+  question-false: Ist die "Verzweigung Gellert" eine anatomisches Detail des menschlichen Blutkreislaufes?
+  source: https://de.wikipedia.org/wiki/Verzweigung_Gellert
+- question-true: Kommt die Sandblindmaus, ein unterirdisch lebendes Nagetier, nur in der Ukraine vor?
+  question-false: Kommt die Sandblindmaus, ein unterirdisch lebendes Nagetier, in Deutschland vor?
+  source: https://de.wikipedia.org/wiki/Sandblindmaus
+- question-true: Als Schwarzstart wird das Anfahren eines Kraftwerks bezeichnet, wenn dies unabhängig vom Stromnetz geschieht.
+  question-false: Als Schwarzstart wird das Anfahren eines Kraftfahrzeugs ohne gültigen Führerschein bezeichnet.
+  source: https://de.wikipedia.org/wiki/Schwarzstart
+- question-true: Das Barfußgäßchen ist ein Anliegerstraße in der Innenstadt von Leipzig.
+  question-false: Das Barfußgäßchen ist die Einkaufsmeile in Leipzig.
+  source: https://de.wikipedia.org/wiki/Barfu%C3%9Fg%C3%A4%C3%9Fchen
+- question-true: Die Straße von Sizilien ist eine Meerenge zwischen Sizilien und Tunesien.
+  question-false: Die Straße von Sizilien ist ein Name für die gebührenpflichtige Autobahn A20 von Messina nach Palermo.
+  source: https://de.wikipedia.org/wiki/Stra%C3%9Fe_von_Sizilien
+- question-true: Konkursreiterei ist in der Schweiz die Praxis, vom Konkurs (in Deutschland: Insolvenz) bedrohte Unternehmen zu übernehmen und in ihrem Namen Schulden zu machen (etwa durch das Aufnehmen von Krediten oder den Kauf von Wertgegenständen), bevor das Unternehmen Konkurs anmeldet.
+  question-false: Konkursreiterei ist eine Disziplin im Dressurreitsport.
+  source: https://de.wikipedia.org/wiki/Konkursreiterei
+- question-true: Der Soundtrack zum Film Titanic gehört zu den meistverkauften Alben der Musikgeschichte.
+  question-false: Der Soundtrack zum Film Titanic war ein Ladenhüter.
+  source: https://de.wikipedia.org/wiki/Titanic:_Music_from_the_Motion_Picture
 - question-true: Hat der Hauptgürtelasteroid (14100) Weierstrass hat einen Durchmesser von weniger als 50km?
   question-false: Hat der Hauptgürtelasteroid (14100) Weierstrass hat einen Durchmesser von mehr als 50km?
   source: https://de.wikipedia.org/wiki/(14100)_Weierstrass
@@ -88,7 +118,3 @@
 - question-true: Ist der Hühnermarkt ein Platz in der Altstadt von Frankfurt am Main?
   question-false: Ist der Viktualienmarkt ein Platz in der Altstadt von Frankfurt am Main?
   source: https://de.wikipedia.org/wiki/H%C3%BChnermarkt
-- question-true: 
-  question-false: 
-  source: 
-
