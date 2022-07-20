@@ -88,34 +88,35 @@
 - question: Wie gross in Zentimetern ist der deutsche Basketballspieler Leon Kratzer?
   answer: 212
   source: https://de.wikipedia.org/wiki/Leon_Kratzer
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
+- question: Der Ryfylketunnel in Norwegen ist mit 14,3 km Länge der längste Unterwasser-Straßentunnel der Welt. Wie tief in Metern unter dem Meerespiegel verläuft er?
+  answer: 292
+  source: https://de.wikipedia.org/wiki/Ryfylketunnel
+- question: In welchem Jahr gab es in Meschede im Sauerland einen der letzten größeren Ausbrüche von Pocken in Deutschland?
+  answer: 1970
+  source: https://de.wikipedia.org/wiki/Pockenausbruch_in_Meschede
+- question: In welchem Jahr begann der Franzose Dupré Barbancourt in Haiti Rum zu destillieren?
+  answer: 1862
+  source: https://de.wikipedia.org/wiki/Rhum_Barbancourt
+- question: In welcher maximalen Tiefe verläuft das 2022 tiefste Unterseestromkabel der Welt (zwischen Sardinien und Italien)?
+  answer: 1640
+  source: https://de.wikipedia.org/wiki/SAPEI
+- question: Wie groß in Quadratmetern ist die Gesamtfläche des Wildschutzgebiets Bumdeling im Nordosten Bhutans?
+  answer: 1534.24
+  source: https://de.wikipedia.org/wiki/Wildschutzgebiet_Bumdeling
+- question: "Mensa Österreich" ist die österreichische Vertretung der Hochbegabtenvereinigung "Mensa International". Wie hoch betrug 2022 der reguläre Preis für den Aufnahmetest?
+  answer: 40
+  source: https://de.wikipedia.org/wiki/Mensa_%C3%96sterreich
+- question: Der Nimatron war ein nicht programmierbarer Rechner, dessen Rechenwerk aus elektromechanischen Relais bestand und der Nim spielen konnte. Wieviele Relais enthielt die Maschine?
+  answer: 116
+  source: https://de.wikipedia.org/wiki/Nimatron
+- question: Wie lang in Kilometern ist die Mała Wisełka (das kleine Weichselchen), ein schmaler Altarm der Weichsel?
+  answer: 3
+  source: https://de.wikipedia.org/wiki/Ma%C5%82a_Wise%C5%82ka
+- question: Wieviel Meter über Meeresspiegel liegt der höchste Punkt des 142 km langen Wanderwegs Siegerland-Höhenring in Hessen?
+  answer: 671
+  source: https://de.wikipedia.org/wiki/Siegerland-H%C3%B6henring
+- question: Wieviele Millionen D-Mark erwirtschaftete das Kirchenbauprogramm in der  DDR bis 1988 mit der Vertragspartnerin "Evangelische Kirche in Deutschland"?
+  answer: 250
+  source: https://de.wikipedia.org/wiki/Kirchenbauprogramme_in_der_DDR
+  
   
