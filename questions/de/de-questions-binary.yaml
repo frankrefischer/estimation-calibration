@@ -1,3 +1,33 @@
+- question-true: War der 1828 geborene Gustavus Frankenstein der Entdecker eines perfekten magischen Würfels der 8. Ordnung?
+  question-false: War der 1828 geborene Gustavus Frankenstein das Vorbild für Mary Shelley's Roman "Frankenstein oder der neue Prometheus"?
+  source: https://de.wikipedia.org/wiki/Gustavus_Frankenstein
+- question-true: Fährt der nächste Fahrstuhl in tieferen Geschossen häufiger nach unten als in höheren Geschossen?
+  question-false: Fährt der nächste Fahrstuhl in tieferen Geschossen genauso häufig nach unten wie in höheren Geschossen?
+  source: https://de.wikipedia.org/wiki/Fahrstuhl-Paradoxon
+- question-true: Hat der 134,5 Meter hohe Fernmeldeturm Pääskyvuori in der finnischen Stadt Turku keinen Aufzug?
+  question-false: Hat der 134,5 Meter hohe Fernmeldeturm Pääskyvuori in der finnischen Stadt Turku keinen Aufzug?
+  source: https://de.wikipedia.org/wiki/Fernmeldeturm_P%C3%A4%C3%A4skyvuori
+- question-true: Ist das Wildweiberhäuschen ein Naturschutzgebiet im hessischen Lahn-Dill-Kreis?
+  question-false: Ist das Wildweiberhäuschen ein Rave-Club im hessischen Lahn-Dill-Kreis?
+  source: https://de.wikipedia.org/wiki/Wildweiberh%C3%A4uschen
+- question-true: War im viktorianischen Großbritannien die Bestecksprache eine Zeichensprache, die über die Position des Bestecks auf dem Teller Nachrichten ausdrückte?
+  question-false: War im viktorianischen Großbritannien die Klicksprache eine Lautsprache, die über Kehllaute Nachrichten ausdrückte?
+  source: https://de.wikipedia.org/wiki/Bestecksprache
+- question-true: Ist "Haus am See" ein Lied des deutschen Reggae- und Hip-Hop-Musikers Peter Fox?
+  question-false: Ist "Haus am See" ein Roman des deutschen Journalisten und Schriftsteller Kurt Tucholsky?
+  source: https://de.wikipedia.org/wiki/Haus_am_See_(Lied)
+- question-true: Stammt die urbane Landassel ursprünglich aus Europa und wurde nach Nordamerika verschleppt?
+  question-false: Stammt die urbane Landassel ursprünglich aus Bayern und wurde nach Nordamerika verschleppt?
+  source: https://de.wikipedia.org/wiki/Urbane_Landassel
+- question-true: War die modellierte Nanes, die der deutsche Humorist in dem Sketch "Skat" trug, inspiriert von der Nase des amerikanischen Schauspielers Karl Malden?
+  question-false: War die modellierte Nanes, die der deutsche Humorist in dem Sketch "Skat" trug, inspiriert von der Nase des amerikanischen Schauspielers Michael Douglas?
+  source: https://de.wikipedia.org/wiki/Skat_(Loriot)
+- question-true: Ist Mămăligă ein Nationalgericht in Rumänien?
+  question-false:  Ist Mămăligă die rumänische Fußballfrauenliga?
+  source: https://de.wikipedia.org/wiki/M%C4%83m%C4%83lig%C4%83
+- question-true: Wird die promoninente rötliche Färbung des Sassyksee auf der Krim durch eine Grünalgenart hervorgerufen?
+  question-false: Wird die promoninente rötliche Färbung des Sassyksee auf der Krim durch Bakterien hervorgerufen?
+  source: https://de.wikipedia.org/wiki/Sassyksee_(Krim)
 - question-true: Nennt man Lebewesen, die trockene Lebensräume bevorzugen xerophil?
   question-false: Nennt man Lebewesen, die feuchte Lebensräume bevorzugen xerophil?
   source: https://de.wikipedia.org/wiki/Xerophilie
