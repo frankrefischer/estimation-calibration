@@ -1,52 +1,52 @@
-- question-true: War der 1828 geborene Gustavus Frankenstein der Entdecker eines perfekten magischen Würfels der 8. Ordnung?
-  question-false: War der 1828 geborene Gustavus Frankenstein das Vorbild für Mary Shelley's Roman "Frankenstein oder der neue Prometheus"?
+- question-true: Der 1828 geborene Gustavus Frankenstein war der Entdecker eines perfekten magischen Würfels der 8. Ordnung.
+  question-false: Der 1828 geborene Gustavus Frankenstein war das Vorbild für Mary Shelley's Roman "Frankenstein oder der neue Prometheus".
   source: https://de.wikipedia.org/wiki/Gustavus_Frankenstein
-- question-true: Fährt der nächste Fahrstuhl in tieferen Geschossen häufiger nach unten als in höheren Geschossen?
-  question-false: Fährt der nächste Fahrstuhl in tieferen Geschossen genauso häufig nach unten wie in höheren Geschossen?
+- question-true: In tieferen Geschossen fährt der nächste Fahrstuhl häufiger nach unten als in höheren Geschossen.
+  question-false: In tieferen Geschossen fährt der nächste Fahrstuhl genauso häufig nach unten wie in höheren Geschossen.
   source: https://de.wikipedia.org/wiki/Fahrstuhl-Paradoxon
-- question-true: Hat der 134,5 Meter hohe Fernmeldeturm Pääskyvuori in der finnischen Stadt Turku keinen Aufzug?
-  question-false: Hat der 134,5 Meter hohe Fernmeldeturm Pääskyvuori in der finnischen Stadt Turku keinen Aufzug?
+- question-true: Der 134,5 Meter hohe Fernmeldeturm Pääskyvuori in der finnischen Stadt Turku hat keinen Aufzug.
+  question-false: Der 134,5 Meter hohe Fernmeldeturm Pääskyvuori in der finnischen Stadt Turku hat keine Treppen.
   source: https://de.wikipedia.org/wiki/Fernmeldeturm_P%C3%A4%C3%A4skyvuori
-- question-true: Ist das Wildweiberhäuschen ein Naturschutzgebiet im hessischen Lahn-Dill-Kreis?
-  question-false: Ist das Wildweiberhäuschen ein Rave-Club im hessischen Lahn-Dill-Kreis?
+- question-true: Das Wildweiberhäuschen ist ein Naturschutzgebiet im hessischen Lahn-Dill-Kreis.
+  question-false: Das Wildweiberhäuschen ist ein Rave-Club im hessischen Lahn-Dill-Kreis.
   source: https://de.wikipedia.org/wiki/Wildweiberh%C3%A4uschen
-- question-true: War im viktorianischen Großbritannien die Bestecksprache eine Zeichensprache, die über die Position des Bestecks auf dem Teller Nachrichten ausdrückte?
-  question-false: War im viktorianischen Großbritannien die Klicksprache eine Lautsprache, die über Kehllaute Nachrichten ausdrückte?
+- question-true: Im viktorianischen Großbritannien gab es eine Bestecksprache, die über die Position des Bestecks auf dem Teller Nachrichten formulierte.
+  question-false: Im viktorianischen Großbritannien gab es eine Klicksprache, die über Klicklaute Nachrichten formulierte.
   source: https://de.wikipedia.org/wiki/Bestecksprache
-- question-true: Ist "Haus am See" ein Lied des deutschen Reggae- und Hip-Hop-Musikers Peter Fox?
-  question-false: Ist "Haus am See" ein Roman des deutschen Journalisten und Schriftsteller Kurt Tucholsky?
+- question-true: "Haus am See" ist der Titel eines Liedes des deutschen Reggae- und Hip-Hop-Musikers Peter Fox.
+  question-false: "Haus am See" ist der Titel eines Romanes des deutschen Journalisten und Schriftstellers Kurt Tucholsky.
   source: https://de.wikipedia.org/wiki/Haus_am_See_(Lied)
-- question-true: Stammt die urbane Landassel ursprünglich aus Europa und wurde nach Nordamerika verschleppt?
-  question-false: Stammt die urbane Landassel ursprünglich aus Bayern und wurde nach Nordamerika verschleppt?
+- question-true: Die urbane Landassel stammt ursprünglich aus Europa und wurde nach Nordamerika verschleppt.
+  question-false: Die urbane Landassel stammt ursprünglich aus Australien und wurde nach Nordamerika verschleppt.
   source: https://de.wikipedia.org/wiki/Urbane_Landassel
-- question-true: War die modellierte Nanes, die der deutsche Humorist in dem Sketch "Skat" trug, inspiriert von der Nase des amerikanischen Schauspielers Karl Malden?
-  question-false: War die modellierte Nanes, die der deutsche Humorist in dem Sketch "Skat" trug, inspiriert von der Nase des amerikanischen Schauspielers Michael Douglas?
+- question-true: Die modellierte Nase, die der deutsche Humorist Loriot in dem Sketch "Skat" trug, war inspiriert von der Nase des amerikanischen Schauspielers Karl Malden.
+  question-false: Die modellierte Nase, die der deutsche Humorist Loriot in dem Sketch "Skat" trug, war inspiriert von der Nase des amerikanischen Schauspielers Michael Douglas.
   source: https://de.wikipedia.org/wiki/Skat_(Loriot)
-- question-true: Ist Mămăligă ein Nationalgericht in Rumänien?
-  question-false:  Ist Mămăligă die rumänische Fußballfrauenliga?
+- question-true: Mămăligă ist ein Nationalgericht in Rumänien.
+  question-false: Mămăligă ist die rumänische Fußballfrauenliga.
   source: https://de.wikipedia.org/wiki/M%C4%83m%C4%83lig%C4%83
-- question-true: Wird die promoninente rötliche Färbung des Sassyksee auf der Krim durch eine Grünalgenart hervorgerufen?
-  question-false: Wird die promoninente rötliche Färbung des Sassyksee auf der Krim durch Bakterien hervorgerufen?
+- question-true: Die promoninente rötliche Färbung des Sassyksee auf der Krim wird durch eine Grünalgenart.
+  question-false: Die promoninente rötliche Färbung des Sassyksee auf der Krim wird durch künstliche zugesetzte Chemikalien hervorgerufen.
   source: https://de.wikipedia.org/wiki/Sassyksee_(Krim)
-- question-true: Nennt man Lebewesen, die trockene Lebensräume bevorzugen xerophil?
-  question-false: Nennt man Lebewesen, die feuchte Lebensräume bevorzugen xerophil?
+- question-true: Lebewesen, die trockene Lebensräume bevorzugen, nennt man xerophil.
+  question-false: Lebewesen, die feuchte Lebensräume bevorzugen, nennt man xerophil.
   source: https://de.wikipedia.org/wiki/Xerophilie
-- question-true: Besteht etwa ein Viertel der Gesamtfläche Sloweniens aus Vogelschutzgebieten?
-  question-false: Besteht etwa drei Viertel der Gesamtfläche Sloweniens aus Vogelschutzgebieten?
+- question-true: Etwa ein Viertel der Gesamtfläche Sloweniens besteht aus Vogelschutzgebieten.
+  question-false: Etwa drei Viertel der Gesamtfläche Sloweniens besteht aus Vogelschutzgebieten.
   source: https://de.wikipedia.org/wiki/Liste_der_EU-Vogelschutzgebiete_in_Slowenien
-- question-true: Ist "Cathode-ray tube amusement device" das früheste bekannte interaktive elektronische Spielgerät mit tatsächlicher Bildschirmanzeige gilt?
-  question-false: Ist "Cathode-ray tube amusement device" der ursprüngliche Name der ersten Fernsehgeräte?
+- question-true: "Cathode-ray tube amusement device" gilt als das früheste bekannte interaktive elektronische Spielgerät mit tatsächlicher Bildschirmanzeige.
+  question-false: "Cathode-ray tube amusement device" war der ursprüngliche Name für die ersten Fernsehgeräte.
   source: https://de.wikipedia.org/wiki/Cathode-ray_tube_amusement_device
-- question-true: Ist die "Verzweigung Gellert" eine Autobahnverzweigung der A2 und A3 in Basel?
-  question-false: Ist die "Verzweigung Gellert" eine anatomisches Detail des menschlichen Blutkreislaufes?
+- question-true: Die "Verzweigung Gellert" ist eine Autobahnverzweigung der A2 und A3 in Basel.
+  question-false: Die "Verzweigung Gellert" ist eine deutsches Rap-Duo aus Köln.
   source: https://de.wikipedia.org/wiki/Verzweigung_Gellert
-- question-true: Kommt die Sandblindmaus, ein unterirdisch lebendes Nagetier, nur in der Ukraine vor?
-  question-false: Kommt die Sandblindmaus, ein unterirdisch lebendes Nagetier, in Deutschland vor?
+- question-true: Die Sandblindmaus ist ein unterirdisch lebendes Nagetier und kommt nur in der Ukraine vor.
+  question-false: Die Sandblindmaus ist ein unterirdisch lebendes Nagetier und kommt auf der deutschen Insel Sylt vor.
   source: https://de.wikipedia.org/wiki/Sandblindmaus
 - question-true: Als Schwarzstart wird das Anfahren eines Kraftwerks bezeichnet, wenn dies unabhängig vom Stromnetz geschieht.
   question-false: Als Schwarzstart wird das Anfahren eines Kraftfahrzeugs ohne gültigen Führerschein bezeichnet.
   source: https://de.wikipedia.org/wiki/Schwarzstart
-- question-true: Das Barfußgäßchen ist ein Anliegerstraße in der Innenstadt von Leipzig.
+- question-true: Das Barfußgäßchen ist eine Anliegerstraße in der Innenstadt von Leipzig.
   question-false: Das Barfußgäßchen ist die Einkaufsmeile in Leipzig.
   source: https://de.wikipedia.org/wiki/Barfu%C3%9Fg%C3%A4%C3%9Fchen
 - question-true: Die Straße von Sizilien ist eine Meerenge zwischen Sizilien und Tunesien.
@@ -58,93 +58,93 @@
 - question-true: Der Soundtrack zum Film Titanic gehört zu den meistverkauften Alben der Musikgeschichte.
   question-false: Der Soundtrack zum Film Titanic war ein Ladenhüter.
   source: https://de.wikipedia.org/wiki/Titanic:_Music_from_the_Motion_Picture
-- question-true: Hat der Hauptgürtelasteroid (14100) Weierstrass hat einen Durchmesser von weniger als 50km?
-  question-false: Hat der Hauptgürtelasteroid (14100) Weierstrass hat einen Durchmesser von mehr als 50km?
+- question-true: Der Hauptgürtelasteroid (14100) Weierstrass hat einen Durchmesser von weniger als 50km.
+  question-false: Der Hauptgürtelasteroid (14100) Weierstrass hat einen Durchmesser von mehr als 500km.
   source: https://de.wikipedia.org/wiki/(14100)_Weierstrass
-- question-true: Ist Portugiesisch die Amtssprache in der Stadt Andrelandia im brasilianischen Bundesstaat Minas Gerais?
-  question-false: Ist Deutsch die Amtssprache in der Stadt Andrelandia im brasilianischen Bundesstaat Minas Gerais?
+- question-true: Portugiesisch ist die Amtssprache in der Stadt Andrelandia im brasilianischen Bundesstaat Minas Gerais.
+  question-false: Deutsch ist die Amtssprache in der Stadt Andrelandia im brasilianischen Bundesstaat Minas Gerais.
   source: https://de.wikipedia.org/wiki/Andrel%C3%A2ndia
-- question-true: Die Zeitschrift für Kanada-Studien reflektiert die kanadistische Forschung im deutschsprachigen Raum. Erscheint sie jährlich?
-  question-false: Die Zeitschrift für Kanada-Studien reflektiert die kanadistische Forschung im deutschsprachigen Raum. Erscheint sie monatlich?
+- question-true: Die Zeitschrift für Kanada-Studien reflektiert die kanadistische Forschung im deutschsprachigen Raum und erscheint jährlich.
+  question-false: Die Zeitschrift für Kanada-Studien reflektiert die kanadistische Forschung im deutschsprachigen Raum und erscheint wöchentlich.
   source: https://de.wikipedia.org/wiki/Zeitschrift_f%C3%BCr_Kanada-Studien
-- question-true: Ist das Verwaltungsgericht Neustadt an der Weinstraße ein Verwaltungsgericht in Rheinland-Pfalz?
-  question-false: Ist das Verwaltungsgericht Neustadt an der Weinstraße ein Verwaltungsgericht in Baden-Württemberg?
+- question-true: Das Verwaltungsgericht Neustadt an der Weinstraße ist ein Verwaltungsgericht in Rheinland-Pfalz.
+  question-false: Das Verwaltungsgericht Neustadt an der Weinstraße ist ein Verwaltungsgericht in Mecklenburg-Vorpommern.
   source: https://de.wikipedia.org/wiki/Verwaltungsgericht_Neustadt_an_der_Weinstra%C3%9Fe
-- question-true: Ist der Dschumādā l-ūlā ein Monat des muslimischen Kalenderjahrs?
-  question-false: Ist der Dschumādā l-ūlā ein indischer Heiliger?
+- question-true: Der Dschumādā l-ūlā ein Monat des muslimischen Kalenderjahrs.
+  question-false: Der Dschumādā l-ūlā ist ein indischer Heiliger.
   source: https://de.wikipedia.org/wiki/Dschum%C4%81d%C4%81_l-%C5%ABl%C4%81
-- question-true: Wurde der schwedische Sänger und Songwriter John Martin Lindström in Stockholm geboren?
-  question-false: Wurde der schwedische Sänger und Songwriter John Martin Lindström in Malmö geboren?
+- question-true: Der schwedische Sänger und Songwriter John Martin Lindström wurde in Stockholm geboren.
+  question-false: Der schwedische Sänger und Songwriter John Martin Lindström wurde in Paris geboren.
   source: https://de.wikipedia.org/wiki/John_Martin_(S%C3%A4nger)
-- question-true: Wurde das achte Studioalbum von Neil Young 1977 veröffentlicht?
-  question-false: Wurde das achte Studioalbum von Neil Young 1987 veröffentlicht?
+- question-true: Das achte Studioalbum von Neil Young wurde 1977 veröffentlicht.
+  question-false: Das achte Studioalbum von Neil Young 1987 veröffentlicht.
   source: https://de.wikipedia.org/wiki/American_Stars_%E2%80%99n_Bars
-- question-true: Wurden bei der Britischen Unterhauswahl 1868 mehr als eine Millionen Stimmen abgegeben?
-  question-false: Wurden bei der Britischen Unterhauswahl 1868 mehr als vier Millionen Stimmen abgegeben?
+- question-true: Bei der Britischen Unterhauswahl 1868 wurden mehr als eine Millionen Stimmen abgegeben.
+  question-false: Bei der Britischen Unterhauswahl 1868 mehr als 10 Millionen Stimmen abgegeben.
   source: https://de.wikipedia.org/wiki/Britische_Unterhauswahl_1868
-- question-true: Hatte die deutsche Pädagogin und Politikerin Adelheid Torhorst sechs Geschwister?
-  question-false: War die deutsche Pädagogin und Politikerin Adelheid Torhorst ein Einzelkind?
+- question-true: Die deutsche Pädagogin und Politikerin Adelheid Torhorst hatte sechs Geschwister.
+  question-false: Die deutsche Pädagogin und Politikerin Adelheid Torhorst war ein Einzelkind.
   source: https://de.wikipedia.org/wiki/Adelheid_Torhorst
-- question-true: Hatte das PKW-Modell DeSoto Deluxe einen Motor mit 3,8 Liter Hubraum?
-  question-false: Hatte das PKW-Modell DeSoto Deluxe einen Motor mit 1,8 Liter Hubraum?
+- question-true: Das PKW-Modell DeSoto Deluxe hatte einen Motor mit 3,8 Liter Hubraum.
+  question-false: Das PKW-Modell DeSoto Deluxe hatte einen Motor mit 1,8 Liter Hubraum.
   source: https://de.wikipedia.org/wiki/DeSoto_Deluxe
-- question-true: War Anuvong der letzte König des laotischen Königreichs Vientiane?
-  question-false: War Anuvong war die erste Königin des laotischen Königreichs Vientiane?
+- question-true: Anuvong war der letzte König des laotischen Königreichs Vientiane.
+  question-false: Anuvong war die erste Königin des laotischen Königreichs Vientiane.
   source: https://de.wikipedia.org/wiki/Anuvong
-- question-true: Ermöglicht die Schliffhülse eine flüssigkeitsdichte Verbindung zweier Glasgeräte mit Normschliff?
-  question-false: Ermöglicht die Schliffhülse eine flüssigkeitsdichte Verbindung zweier Gummischläuche mit Normstärke?
+- question-true: Die Schliffhülse ermöglicht eine flüssigkeitsdichte Verbindung zweier Glasgeräte mit Normschliff.
+  question-false: Die Schliffhülse ermöglicht eine flüssigkeitsdichte Verbindung zweier Gartenschläuche mit Normstärke.
   source: https://de.wikipedia.org/wiki/Schliffh%C3%BClse
-- question-true: Ist Takashima eine japanische Insel der Seto-Inlandsee?
-  question-false: Ist Takashima eine japanische Stadt am Ufer des Seto-Inlandsees?
+- question-true: Takashima ist eine japanische Insel der Seto-Inlandsee.
+  question-false: Takashima ist ein aus Japan stammendes Elektronikspielzeug.
   source: https://de.wikipedia.org/wiki/Takashima_(Tokushima)
-- question-true: Starb der deutsch Bildhauer Michael Hönel 1653 in Judenburg?
-  question-false: Starb der deutsch Bildhauer Michael Hönel 1953 in Judenburg?
+- question-true: Der deutsche Bildhauer Michael Hönel starb 1653 in Judenburg.
+  question-false: Der deutsche Bildhauer Michael Hönel starb 1953 in Judenburg.
   source: https://de.wikipedia.org/wiki/Michael_H%C3%B6nel
-- question-true: Gehörte die französische Ortschaft Vignes im Department Yonne in der Region Bourgogne-Franche-Comté früher zum Kanton Chablis?
-  question-false: Gehörte die französische Ortschaft Vignes im Department Yonne in der Region Bourgogne-Franche-Comté früher zum Kanton Glarus?
+- question-true: Die französische Ortschaft Vignes im Department Yonne in der Region Bourgogne-Franche-Comté gehörte früher zum Kanton Chablis.
+  question-false: Die französische Ortschaft Vignes im Department Yonne in der Region Bourgogne-Franche-Comté gehörte früher zum Kanton Glarus.
   source: https://de.wikipedia.org/wiki/Vignes_(Yonne)
-- question-true: Wurden in der Sozialistischen Volksrepublik Albanien insgesamt acht Fünfjahrespläne aufgestellt?
-  question-false: Wurden in der Sozialistischen Volksrepublik Albanien insgesamt zwölf Fünfjahrespläne aufgestellt?
+- question-true: In der Sozialistischen Volksrepublik Albanien wurden insgesamt acht Fünfjahrespläne aufgestellt.
+  question-false: Inn der Sozialistischen Volksrepublik Albanien wurden insgesamt zwölf Fünfjahrespläne aufgestellt.
   source: https://de.wikipedia.org/wiki/F%C3%BCnfjahrespl%C3%A4ne_der_Sozialistischen_Volksrepublik_Albanien
-- question-true: Existierte die schweizerische Eisenbahngesellschaft Ouest Suisse von 1852 bis 1871?
-  question-false: Existierte die schweizerische Eisenbahngesellschaft Ouest Suisse von 1952 bis 1971?
+- question-true: Die schweizerische Eisenbahngesellschaft Ouest Suisse existierte von 1852 bis 1871.
+  question-false: Die schweizerische Eisenbahngesellschaft Ouest Suisse existierte von 1952 bis 1971.
   source: https://de.wikipedia.org/wiki/Compagnie_de_l%E2%80%99Ouest_Suisse
-- question-true: War Jessie Willcox Smith eine US-amerikanische Illustratorin für Kinder- und Jugendliteratur?
-  question-false: War Jessie Willcox Smith ein US-amerikanischer Serienmörder?
+- question-true: Jessie Willcox Smith war eine US-amerikanische Illustratorin für Kinder- und Jugendliteratur.
+  question-false: Jessie Willcox Smith war ein US-amerikanischer Serienmörder.
   source: https://de.wikipedia.org/wiki/Jessie_Willcox_Smith
-- question-true: Ist die Zitationsanalyse ein Gebiet der Bibliometrie, das sich mit dem Studium der Beziehungen zwischen zitierten und zitierenden Arbeiten beschäftigt?
-  question-false: Ist die Zitationsanalyse ein Verfahren zur der chemischen Analyse von Grundwasser?
+- question-true: Die Zitationsanalyse ist ein Gebiet der Bibliometrie, das sich mit dem Studium der Beziehungen zwischen zitierten und zitierenden Arbeiten beschäftigt.
+  question-false: Die Zitationsanalyse ist ein Verfahren zur chemischen Analyse von Grundwasser.
   source: https://de.wikipedia.org/wiki/Zitationsanalyse
-- question-true: Ist Eunectes griechisch und bedeutet „guter Schwimmer“?
-  question-false: Ist Eunectes griechisch und bedeutet „guter Honig“?
+- question-true: "Eunectes" ist griechisch und bedeutet „guter Schwimmer“.
+  question-false: "Eunectes" ist  griechisch und bedeutet „guter Honig“.
   source: https://de.wikipedia.org/wiki/Beni-Anakonda
-- question-true: "Die Frau ohne Nerven" ist ein deutscher Stummfilm aus dem Jahre 1929. Hatte die Filmspur eine Länge von 2427 Metern?
-  question-false: "Die Frau ohne Nerven" ist ein deutscher Stummfilm aus dem Jahre 1929. Hatte die Filmspur eine Länge von 7247 Metern?
+- question-true: "Die Frau ohne Nerven" ist ein deutscher Stummfilm aus dem Jahre 1929 und seine Filmspur hatte eine Länge von 2427 Metern.
+  question-false: "Die Frau ohne Nerven" ist ein deutscher Stummfilm aus dem Jahre 1929 und seine Filmspur hatte eine Länge von 7422 Metern?
   source: https://de.wikipedia.org/wiki/Die_Frau_ohne_Nerven
-- question-true: War der bekannte deutsche Homöopath Heinrich Stauffer Mitglied des Deutschen Reichstags?
-  question-false: War der bekannte deutsche Homöopath Heinrich Stauffer Mitglied des Deutschen Bundestags?
+- question-true: Der bekannte deutsche Homöopath Heinrich Stauffer war Mitglied des Deutschen Reichstags.
+  question-false: Der bekannte deutsche Homöopath Heinrich Stauffer Mitglied des Deutschen Bundestags.
   source: https://de.wikipedia.org/wiki/Heinrich_Stauffer
-- question-true: War Ruth Brunswick eine amerikanische Psychoanalytikerin?
-  question-false: War Ruth Brunswick eine amerikanische Bowlingmeisterin?
+- question-true: Ruth Brunswick war eine amerikanische Psychoanalytikerin.
+  question-false: Ruth Brunswick war eine amerikanische Bowlinglegende.
   source: https://de.wikipedia.org/wiki/Ruth_Brunswick
-- question-true: Ist der deutsche Politiker Kay Nerstheimer 2020 in die NPD eingetreten, nachdem er im gleichen Jahr aus der AfD ausgeschlossen wurde?
-  question-false: Ist der deutsche Politiker Kay Nerstheimer 2020 in die AfD eingetreten, nachdem er im gleichen Jahr aus der NPD ausgetreten war?
+- question-true: Der deutsche Politiker Kay Nerstheimer ist 2020 in die NPD eingetreten, nachdem er im gleichen Jahr aus der AfD ausgeschlossen wurde.
+  question-false: Der deutsche Politiker Kay Nerstheimer ist 2020 in die AfD eingetreten, nachdem er im gleichen Jahr aus der NPD ausgetreten war.
   source: https://de.wikipedia.org/wiki/Kay_Nerstheimer
-- question-true: Ist Valmet VK 62 das Standardgewehr der finnischen Streitkräfte?
-  question-false: Ist Valmet VK 62 der beliebteste Motorroller aus belgischer Produktion?
+- question-true: Das Valmet VK 62 ist das Standardgewehr der finnischen Streitkräfte.
+  question-false: Das Valmet VK 62 ist in Belgien der beliebteste Motorroller aus belgischer Produktion.
   source: https://de.wikipedia.org/wiki/Valmet_RK_62
-- question-true: Starb der kanadische Jazzmusiker Brian Barley im Alter von 28 Jahren an einem epileptischen Anfall?
-  question-false: Starb der kanadische Jazzmusiker Brian Barley im Alter von 88 Jahren an einem epileptischen Anfall?
+- question-true: Der kanadische Jazzmusiker Brian Barley starb im Alter von 28 Jahren an einem epileptischen Anfall.
+  question-false: Der kanadische Jazzmusiker Brian Barley starb im Alter von 88 Jahren an einem epileptischen Anfall.
   source: https://de.wikipedia.org/wiki/Brian_Barley
-- question-true: Hat die Ortsgemeinde Zettingen im Landkreis Cochem-Zell in Rheinlandpfalz die Postleitzahl 56761?
-  question-false: Hat die Ortsgemeinde Zettingen im Landkreis Cochem-Zell in Rheinlandpfalz die Postleitzahl 15667?
+- question-true: Die Ortsgemeinde Zettingen im Landkreis Cochem-Zell in Rheinlandpfalz hat die Postleitzahl 56761.
+  question-false: Die Ortsgemeinde Zettingen im Landkreis Cochem-Zell in Rheinlandpfalz hat die Postleitzahl 15667.
   source: https://de.wikipedia.org/wiki/Zettingen
-- question-true: Ist "Der Butt" ein Roman des Schriftstellers Günter Grass?
-  question-false: Ist "Der Wels" ein Roman des Schriftstellers Günter Grass?
+- question-true: "Der Butt" ist ein Roman des Schriftstellers Günter Grass.
+  question-false: "Der Wels" ein Roman des Schriftstellers Günter Grass.
   source: https://de.wikipedia.org/wiki/Der_Butt
-- question-true: Ist das Flöz Johannisstein im Piesberg bei Osnabrück ein 80 Zentimeter mächtiges Antrazitkohlenflöz?
-  question-false: Ist das Flöz Johannisstein im Piesberg bei Osnabrück ein 80 Meter mächtiges Antrazitkohlenflöz?
+- question-true: Das Flöz Johannisstein im Piesberg bei Osnabrück ist ein 80 Zentimeter mächtiges Antrazitkohlenflöz.
+  question-false: Das Flöz Johannisstein im Piesberg bei Osnabrück ist ein 80 Meter mächtiges Antrazitkohlenflöz.
   source: https://de.wikipedia.org/wiki/Fl%C3%B6z_Johannisstein
-- question-true: Ist der Hühnermarkt ein Platz in der Altstadt von Frankfurt am Main?
-  question-false: Ist der Viktualienmarkt ein Platz in der Altstadt von Frankfurt am Main?
+- question-true: Der Hühnermarkt ist ein Platz in der Altstadt von Frankfurt am Main.
+  question-false: Der Viktualienmarkt ein Platz in der Altstadt von Frankfurt am Main.
   source: https://de.wikipedia.org/wiki/H%C3%BChnermarkt
