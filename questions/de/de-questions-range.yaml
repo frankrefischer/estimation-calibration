@@ -1,3 +1,33 @@
+- question: In welchem Jahr erreichte das Team des Fußballvereins Sheffield United die höchste Zuschauerzahl (Stand 2022)?
+  answer: 1936
+  source: https://de.wikipedia.org/wiki/Sheffield_United
+- question: Der ErdederMarianengraben im Pazifischen Ozean ist der tiefste Ort der Erde. Wie tief in Metern ist er?
+  answer: 11034
+  source: https://www.ef.de/blog/language/50-unglaubliche-fakten-ueber-die-welt-die-dich-kultiviert-wirken-lassen/
+- question: Von wievielen verschiedenen Ländern werden die Wasserressourcen des Nils geteilt?
+  answer: 11
+  source: https://www.ef.de/blog/language/50-unglaubliche-fakten-ueber-die-welt-die-dich-kultiviert-wirken-lassen/
+- question: Aus wievielen Steinblöcken besteht die große Pyramide von Gizeh?
+  answer: 2300000
+  source: https://www.ef.de/blog/language/50-unglaubliche-fakten-ueber-die-welt-die-dich-kultiviert-wirken-lassen/
+- question: Bei wievielen Jahren lag das Durchschnittsalter der Weltbevölkerung im Jahr 2019?
+  answer: 30
+  source: https://www.ef.de/blog/language/50-unglaubliche-fakten-ueber-die-welt-die-dich-kultiviert-wirken-lassen/
+- question: Wie viele Kilometer ist die Erde von der Sonne entfernt?
+  answer: 147200000
+  source: https://www.ef.de/blog/language/50-unglaubliche-fakten-ueber-die-welt-die-dich-kultiviert-wirken-lassen/
+- question: Wieviele Altäre wurden im Jahr 1497 bei einem Unglück im Heilig-Kreuz-Münster in Schwäbisch Gmünd zerstört?
+  answer: 22
+  source: https://de.wikipedia.org/wiki/Heilig-Kreuz-M%C3%BCnster_(Schw%C3%A4bisch_Gm%C3%BCnd)
+- question: Wie viele Mitarbeiter beschäftigte das UNHCR im Jahr 2015 weltweit?
+  answer: 9300
+  source: https://de.wikipedia.org/wiki/Hoher_Fl%C3%BCchtlingskommissar_der_Vereinten_Nationen
+- question: Der Lancia Dikappa ist ein Automobil das von 1921 bis 1922 produziert wurde und 80000 Lire kostete. Wie viel Stück davon wurden produziert?
+  answer: 160
+  source: https://de.wikipedia.org/wiki/Lancia_Dikappa
+- question: Ferwert ist ein Dorf in den Niederlanden mit einer Fläche von 18.48 Quadratkilometern. Wie viele Einwohner hatte es im Jahr 2020?
+  answer: 1790
+  source: https://de.wikipedia.org/wiki/Ferwert
 - question: Wie viele tagaktive Schmetterlingsarten wurden bis 2022 in der ostserbischen Tunnelhöhle Rajska prerast (deutsch Paradies-Felsgewächs) 
   answer: 37
   source: https://de.wikipedia.org/wiki/Rajska_prerast
@@ -148,5 +178,4 @@
 - question: Wieviele Millionen D-Mark erwirtschaftete das Kirchenbauprogramm in der  DDR bis 1988 mit der Vertragspartnerin "Evangelische Kirche in Deutschland"?
   answer: 250
   source: https://de.wikipedia.org/wiki/Kirchenbauprogramme_in_der_DDR
-  
-  
+ 
