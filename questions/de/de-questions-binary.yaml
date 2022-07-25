@@ -1,3 +1,33 @@
+- question-true: Bibliothekskatzen sind Hauskatzen, die in öffentlichen Bibliotheken leben.
+  question-false: Bibliothekskatzen nennt man die Buchstützen in öffentlichen Bibliotheken.
+  source: https://de.wikipedia.org/wiki/Bibliothekskatze
+- question-true: Doomscrolling  bezeichnet das exzessive Konsumieren negativer Nachrichten im Internet.
+  question-false: Doomscrolling bezeichnet das exzessive Spielen des Computerspiels Doom.
+  source: https://de.wikipedia.org/wiki/Doomscrolling
+- question-true: In der Trinkwasseraufbereitung werden rund 99,9 % des im Rohwasser vorliegenden Nanoplastiks ausgefiltert.
+  question-false: In der Trinkwasseraufbereitung werden rund 99,9 % des im Rohwasser vorliegenden Nanoplastiks nicht ausgefiltert.
+  source: https://de.wikipedia.org/wiki/Nanoplastik
+- question-true: Dem Löwenzahn werden seit altersher harntreibenden Eigenschaften zugesprochen.
+  question-false: Dem Löwenzahn werden seit altersher toxische Eigenschafgten zugesprochen.
+  source: https://de.wikipedia.org/wiki/L%C3%B6wenzahnsalat
+- question-true: "Taedium vitae" ist lateinisch und bedeutet Lebensüberdruss.
+  question-false: "Taedium vitae" ist griechisch und bedeutet Lebensüberdruss.
+  source: https://de.wikipedia.org/wiki/Taedium_vitae
+- question-true: Fyffe Hudson & Co. war ein 1897 gegründeter Londoner Bananenhändler. 
+  question-false: Fyffe Hudson & Co. ist ein 1987 gegründeter Pariser Bananenhändler. 
+  source: https://de.wikipedia.org/wiki/Fyffe_Hudson_%26_Co.
+- question-true: Der japanische Fußballspieler Shuhei Kawasaki ist 168cm groß.
+  question-false: Der japanische Basketballspieler Shuhei Kawasaki ist 168cm groß.
+  source: https://de.wikipedia.org/wiki/Sh%C5%ABhei_Kawasaki
+- question-true: Baronville ist ein Schloss in Frankreich, rund 70 Kilometer westlich von Paris.
+  question-false: Baronville ist ein Schloss im US-Bundesstaat Texas.
+  source: https://de.wikipedia.org/wiki/Bartonville_(Texas)
+- question-true: Depression in der Astronomie bezeichnet die negative Höhe eines Gestirns, das unter dem Horizont steht.
+  question-false: Depression in der Astronomie bezeichnet die letzte Lebensphase eines Sternes.
+  source: https://de.wikipedia.org/wiki/Depression_(Astronomie)
+- question-true: Der Bacon Peak ist ein Berg in der Kaskadenkette im US-Bundesstaat Washington.
+  question-false: Der Bacon Peak ist das traditionelle Schlachtfest im US-Bundesstaat Washington.
+  source: https://de.wikipedia.org/wiki/Bacon_Peak
 - question-true: Der 1828 geborene Gustavus Frankenstein war der Entdecker eines perfekten magischen Würfels der 8. Ordnung.
   question-false: Der 1828 geborene Gustavus Frankenstein war das Vorbild für Mary Shelley's Roman "Frankenstein oder der neue Prometheus".
   source: https://de.wikipedia.org/wiki/Gustavus_Frankenstein
