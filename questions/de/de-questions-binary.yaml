@@ -209,7 +209,7 @@
   question-false: "Eunectes" ist  griechisch und bedeutet „guter Honig“.
   source: https://de.wikipedia.org/wiki/Beni-Anakonda
 - question-true: "Die Frau ohne Nerven" ist ein deutscher Stummfilm aus dem Jahre 1929 und seine Filmspur hatte eine Länge von 2427 Metern.
-  question-false: "Die Frau ohne Nerven" ist ein deutscher Stummfilm aus dem Jahre 1929 und seine Filmspur hatte eine Länge von 7422 Metern?
+  question-false: "Die Frau ohne Nerven" ist ein deutscher Stummfilm aus dem Jahre 1929 und seine Filmspur hatte eine Länge von 7422 Metern.
   source: https://de.wikipedia.org/wiki/Die_Frau_ohne_Nerven
 - question-true: Der bekannte deutsche Homöopath Heinrich Stauffer war Mitglied des Deutschen Reichstags.
   question-false: Der bekannte deutsche Homöopath Heinrich Stauffer Mitglied des Deutschen Bundestags.
@@ -224,17 +224,17 @@
   question-false: Das Valmet VK 62 ist in Belgien der beliebteste Motorroller aus belgischer Produktion.
   source: https://de.wikipedia.org/wiki/Valmet_RK_62
 - question-true: Der kanadische Jazzmusiker Brian Barley starb im Alter von 28 Jahren an einem epileptischen Anfall.
-  question-false: Der kanadische Jazzmusiker Brian Barley starb im Alter von 88 Jahren an einem epileptischen Anfall.
+  question-false: Der kanadische Jazzmusiker Brian Barley starb im Alter von 18 Jahren an einem epileptischen Anfall.
   source: https://de.wikipedia.org/wiki/Brian_Barley
 - question-true: Die Ortsgemeinde Zettingen im Landkreis Cochem-Zell in Rheinlandpfalz hat die Postleitzahl 56761.
   question-false: Die Ortsgemeinde Zettingen im Landkreis Cochem-Zell in Rheinlandpfalz hat die Postleitzahl 15667.
   source: https://de.wikipedia.org/wiki/Zettingen
 - question-true: "Der Butt" ist ein Roman des Schriftstellers Günter Grass.
-  question-false: "Der Wels" ein Roman des Schriftstellers Günter Grass.
+  question-false: "Der Wels" ist ein Roman des Schriftstellers Günter Grass.
   source: https://de.wikipedia.org/wiki/Der_Butt
 - question-true: Das Flöz Johannisstein im Piesberg bei Osnabrück ist ein 80 Zentimeter mächtiges Antrazitkohlenflöz.
   question-false: Das Flöz Johannisstein im Piesberg bei Osnabrück ist ein 80 Meter mächtiges Antrazitkohlenflöz.
   source: https://de.wikipedia.org/wiki/Fl%C3%B6z_Johannisstein
 - question-true: Der Hühnermarkt ist ein Platz in der Altstadt von Frankfurt am Main.
-  question-false: Der Viktualienmarkt ein Platz in der Altstadt von Frankfurt am Main.
+  question-false: Der Viktualienmarkt ist ein Platz in der Altstadt von Frankfurt am Main.
   source: https://de.wikipedia.org/wiki/H%C3%BChnermarkt
