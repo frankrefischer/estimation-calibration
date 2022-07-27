@@ -1,3 +1,63 @@
+- question-true: Eine Blogtour ist eine Veranstaltung, bei der eine Person zu einem bestimmten Thema an verschiedenen Tagen auf verschiedenen Blogs zu Gast ist.
+  question-false: Eine Blogtour ist eine Veranstaltung, bei der eine Gruppe Boulder-Climber an verschiedenen Tagen verschiedenene Kletterhallen besuchen.
+  source: https://de.wikipedia.org/wiki/Blogtour
+- question-true: Das Wort Arrondissement bezeichnet Verwaltungsbezirke in Frankreich.
+  question-false: Das Wort Arrondissement ist französisch und bedeutet: Vorort.
+  source: https://de.wikipedia.org/wiki/Arrondissement
+- question-true: Die Kapuziner sind ein franziskanischer Bettelorden in der römisch-katholischen Kirche.
+  question-false: Die Kapuziner sind eine protestantische Kirche, die gegenwärtig noch in Italien und einigen Ländern Südamerikas verbreitet ist.
+  source: https://de.wikipedia.org/wiki/Kapuziner
+- question-true: Napoleon Bonaparte führte 1798 bis 1801 eine Expedition nach Ägypten mit dem Ziel aus Ägypten eine französische Provinz zu machen.
+  question-false: Napoleon Bonaparte führte 1798 bis 1801 eine Expedition nach Ägypten mit dem Ziel das Grab des Tutanchamun zu finden.
+  source: https://de.wikipedia.org/wiki/%C3%84gyptische_Expedition
+- question-true: Deng Xiaoping folgte auf Mao Zedong als Parteiführer der Volksrepublik China.
+  question-false: Mao Zedong folgte auf Deng Xiaoping als Parteiführer der Volksrepublik China.
+  source: https://de.wikipedia.org/wiki/Deng_Xiaoping
+- question-true: Der McMurdo-Sund ist eine Bucht des Rossmeeres entlang der Küste des ostantarktischen Viktorialands.
+  question-false: Der McMurdo-Sund ist eine Bucht an der Alaskischen Halbinsel.
+  source: https://de.wikipedia.org/wiki/McMurdo-Sund
+- question-true: Tasmanien ist eine zu Australien gehörende Insel.
+  question-false: Tasmanien ist eine zu Südafrika gehörende Insel.
+  source: https://de.wikipedia.org/wiki/Tasmanien
+- question-true: Unter Personalunion versteht man die Ausübung verschiedener nicht miteinander verbundener Ämter oder Funktionen durch dieselbe Person.
+  question-false: Unter Personalunion versteht man die Ausübung eines Amtes oder einer Funktion durch verschiedene Personen.
+  source: https://de.wikipedia.org/wiki/Personalunion
+- question-true: Bangladesch ist ein Staat in Südasien.
+  question-false: Bangladesch ist eine Stadt in Indien.
+  source: https://de.wikipedia.org/wiki/Bangladesch
+- question-true: Der westafrikanische Staat Burkina Faso stand früher unter französischer Kolonialherrschaft.
+  question-false: Der westafrikanische Staat Burkina Faso stand früher unter deutscher Kolonialherrschaft.
+  source: https://de.wikipedia.org/wiki/Burkina_Faso#Franz%C3%B6sische_Kolonialzeit
+- question-true: Ein Kontorsionist ist ein Akrobat, der seinen Körper extrem biegen kann.
+  question-false: Ein Kontorsionist ist ein kaufmännischer Angestellter, der einfachere Verwaltungsarbeiten erledigt.
+  source: https://de.wikipedia.org/wiki/Kontorsion
+- question-true: Die Leichtgewichtsklasse ist die einzige beschränkte Gewichtsklasse im Rudersport.
+  question-false: Die Leichtgewichtsklasse ist eine von 5 beschränkten Gewichtsklassen im Rudersport. 
+  source: https://de.wikipedia.org/wiki/Leichtgewicht_(Rudern)
+- question-true: Der Bärenwandkopf ist ein Berg im Karwendel in Tirol.
+  question-false: Bärenwandkopf ist Begriff des Deutschen Zolls für an die Wand montierbare Bärenkopftrophäen.
+  source: https://de.wikipedia.org/wiki/B%C3%A4renwandkopf
+- question-true: Die zweitgrößte Stadt im US-Bundesstaat Alabama heisst Birmingham.
+  question-false: Die zweitgrößte Stadt im australischen Bundesstaat Western Australia heisst Birmingham.
+  source: https://de.wikipedia.org/wiki/Birmingham_(Alabama)
+- question-true:  Amateurboxen ist bei den Olympischen Spielen vertreten.
+  question-false: Amateurboxen ist nicht bei den Olympischen Spielen vertreten.
+  source: https://de.wikipedia.org/wiki/Boxen
+- question-true: Das Wort Kanon stammt vom altgriechischen Wort kanon und bedeutet ursprünglich: Richtschnur, Messlatte.
+  question-false: Das Wort Kanon stammt vom althochdeutschen Wort kanon und bedeutet ursprünglich: ich kann nicht.
+  source: https://de.wikipedia.org/wiki/Kanon
+- question-true: Prohibition bezeichnet das Verbot bestimmter Drogen.
+  question-false: Prohibition bezeichnet die Besteuerung von Alkohol.
+  source: https://de.wikipedia.org/wiki/Prohibition#Alkoholprohibition
+- question-true: Der Bundesverband der Selbständigen Deutscher Gewerbeverband (BDS) wurde 1891 gegründet.
+  question-false: Der Bundesverband der Selbständigen Deutscher Gewerbeverband (BDS) wurde 1981 gegründet.
+  source: https://de.wikipedia.org/wiki/Bund_der_Selbst%C3%A4ndigen
+- question-true: Burak Özsoy ist ein in der Türkei geborener Fußballspieler.
+  question-false: Burak Özsoy ist ein in Spanien geborener Fußballspieler.
+  source: https://de.wikipedia.org/wiki/Burak_%C3%96zsoy
+- question-true: Eine Diözese ist ein territorial abgegrenzter kirchlicher Verwaltungsbezirk.
+  question-false: Eine Diözese ist eine lokal abgegrenzte Hautirritation.
+  source: https://de.wikipedia.org/wiki/Di%C3%B6zese
 - question-true: Bibliothekskatzen sind Hauskatzen, die in öffentlichen Bibliotheken leben.
   question-false: Bibliothekskatzen nennt man die Buchstützen in öffentlichen Bibliotheken.
   source: https://de.wikipedia.org/wiki/Bibliothekskatze
