@@ -1,5 +1,35 @@
+- question-true: Ravenna ist eine Stadt in Nord-Italien.
+  question-false: Ravenna ist eine Stadt in Süd-Italien.
+  source: https://de.wikipedia.org/wiki/Ravenna
+- question-true: Die Einerverfolgung ist eine Disziplin des Bahnradsports.
+  question-false: Die Einerverfolgung ist Beschattungstechnik im Polizeidienst.
+  source: https://de.wikipedia.org/wiki/Einerverfolgung
+- question-true: Die Grafschaft Derbyshire in England grenzt an die Grafsschaft Staffordshire.
+  question-false:  Die Grafschaft Derbyshire in England grenzt an die Grafsschaft Cornwall.
+  source: https://de.wikipedia.org/wiki/Derbyshire
+- question-true:  "Weihbischof" bezeichnet im deutschsprachigen Raum das katholische Amt des Auxiliarbischofs.
+  question-false: "Weihbischof" bezeichnet im deutschsprachigen Raum das katholische Amt des Diözesanbischof.
+  source: https://de.wikipedia.org/wiki/Weihbischof
+- question-true: Ein Kupferstecher überträgt durch spanabhebende Verfahren Abbildungen auf Platten Druckplatten aus Kupfer.
+  question-false: "Kupferstecher" bezeichnet in Bayern die gemeine Pferdebremse.
+  source: https://de.wikipedia.org/wiki/Kupferstecher
+- question-true: Norden ist eine Stadt in Ostfriesland.
+  question-false: Süden ist eine Stadt in Ostfriesland.
+  source: https://de.wikipedia.org/wiki/Norden_(Ostfriesland)
+- question-true: Toskisch ist eine grosse Dialektgruppe des Albanischen.
+  question-false: Toskisch ist eine grosse Dialektgruppe des Spanischen.
+  source: https://de.wikipedia.org/wiki/Albanische_Sprache
+- question-true: Der Papyrus Leipzig 39 ist das Fragment einer Papyrusrolle aus dem 4. Jahrhundert.
+  question-false: Der Papyrus Leipzig 39 war ein Papierkombinat in der DDR.
+  source: https://de.wikipedia.org/wiki/Papyrus_Leipzig_39
+- question-true: Das Euro Theater Central in Bonn ist eines der kleinsten Einraum-Theater in Nordrhein-Westfalen.
+  question-false: Das Euro Theater Central in Bonn ist eines der größten Theater in Europa.
+  source: https://de.wikipedia.org/wiki/Euro_Theater_Central_Bonn
+- question-true: Athen ist seit der Jungsteinzeit kontinuierlich besiedelt.
+  question-false: Athen ist seit dem Kambrium kontinuierlich besiedelt.
+  source: https://de.wikipedia.org/wiki/Athen
 - question-true: Eine Blogtour ist eine Veranstaltung, bei der eine Person zu einem bestimmten Thema an verschiedenen Tagen auf verschiedenen Blogs zu Gast ist.
-  question-false: Eine Blogtour ist eine Veranstaltung, bei der eine Gruppe Boulder-Climber an verschiedenen Tagen verschiedenene Kletterhallen besuchen.
+  question-false: Eine Blogtour ist eine Veranstaltung, bei der eine Gruppe Boulder-Climber an verschiedenen Tagen verschiedenene Kletterhallen besucht.
   source: https://de.wikipedia.org/wiki/Blogtour
 - question-true: Das Wort Arrondissement bezeichnet Verwaltungsbezirke in Frankreich.
   question-false: Das Wort Arrondissement ist französisch und bedeutet: Vorort.
