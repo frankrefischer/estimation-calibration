@@ -1,33 +1,33 @@
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
-- question: 
-  answer: 
-  source: 
+- question: In welchem Jahr wurde der österreichisch-ungarische Komponist Franz List geboren?
+  answer: 1811
+  source: https://de.wikipedia.org/wiki/Franz_Liszt
+- question: Wie lang in Jahren ist die Umlaufzeit des Asteroiden (59390) Habermas um die Sonne?
+  answer: 4,93
+  source: https://de.wikipedia.org/wiki/(59390)_Habermas
+- question: Wie viele Gemeindemitglieder hatte das Evangelisch-Lutherische Dekanat Bad Neustadt an der Saale im Jahr 2010?
+  answer: 19427
+  source: https://de.wikipedia.org/wiki/Evangelisch-Lutherisches_Dekanat_Bad_Neustadt_an_der_Saale
+- question: Wieviele funktionsfähige Turmuhren werden im Turmuhrenmuseum Bockenem in Niedersachsen präsentiert? (Stand 2022)
+  answer: 40
+  source: https://de.wikipedia.org/wiki/Turmuhrenmuseum_Bockenem
+- question: In welchem Jahr spielt die Sherlock-Holmes-Kurzgeschichte "Der blaue Karfunkel" von Sir Arthur Conan Doyle.
+  answer: 1889
+  source: https://de.wikipedia.org/wiki/Der_blaue_Karfunkel
+- question: Wie viele Besucher in etwa hatte die Loveparade im Jahr 1999?
+  answer: 1500000
+  source: https://de.wikipedia.org/wiki/Loveparade
+- question: Wie viele Millionen Einwohner hatte New York City im Jahr 2020?
+  answer: 8,8
+  source: https://de.wikipedia.org/wiki/New_York_City
+- question: Um wie viel Prozent ist Bevölkerung der Niederlande im Jahr 2021 geschätzt gewachsen?
+  answer: 0,5
+  source: https://de.wikipedia.org/wiki/Niederlande
+- question: Wie hoch in Metern ist der etwa 15 Tonnen schwere stehende Menhir Pierre-aux-Fees in Le Creusot in Frankreich?
+  answer: 6,35
+  source: https://de.wikipedia.org/wiki/Pierre-aux-F%C3%A9es_(Saint-Micaud)
+- question: Rund wie viele Mitglieder hatte die deutsche "Gewerkschaft Nahrung-Genuss-Gaststätten" im Jahr 2018?
+  answer: 198026
+  source: https://de.wikipedia.org/wiki/Gewerkschaft_Nahrung-Genuss-Gastst%C3%A4tten
 - question: Wie viele Kantone hat die Schweiz?
   answer: 26
   source: https://de.wikipedia.org/wiki/Kanton_(Schweiz)
